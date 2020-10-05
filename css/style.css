@@ -5,7 +5,7 @@ img {
     margin-right: auto;
     width: 50%;
     display:block; */
-    border:5px solid black;
+    border:3px solid black;
 }
 body {
     background-color: cornsilk;
@@ -29,4 +29,7 @@ h2{
 }
 .col-3 {
     border-right: 5px solid orange;
+}
+#leftItalic {
+   font-style: italic;
 }
